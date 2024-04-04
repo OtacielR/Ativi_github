@@ -1,0 +1,30 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "script": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtacielR/Ativi_github.git"
+  },
+  "author": "Otaciel da Silva Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtacielR/Ativi_github/issues"
+  },
+  "homepage": "https://github.com/OtacielR/Ativi_github#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  ,
+
+    "scripts": {
+      "test": "jest"
+    }
+  }
+
+
+
